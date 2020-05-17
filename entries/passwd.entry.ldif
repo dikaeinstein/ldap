@@ -1,0 +1,5 @@
+dn: cn=ldapjs, ou=users, o=myhost
+changetype: modify
+replace: userPassword
+userPassword: secret
+-
